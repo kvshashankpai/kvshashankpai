@@ -44,14 +44,11 @@ I am especially interested in **efficient AI, multimodal/document intelligence, 
 # 🛠️ Technical Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Motoko](https://img.shields.io/badge/Motoko-000000?style=flat&logo=internetcomputer&logoColor=white)
+
 
 ### Machine Learning & Data
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -59,8 +56,6 @@ I am especially interested in **efficient AI, multimodal/document intelligence, 
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Optuna](https://img.shields.io/badge/Optuna-9C6DE3?style=flat)
 ![XGBoost](https://img.shields.io/badge/XGBoost-18954D?style=flat)
-![LightGBM](https://img.shields.io/badge/LightGBM-2A6E3F?style=flat)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
@@ -73,7 +68,6 @@ I am especially interested in **efficient AI, multimodal/document intelligence, 
 ### Computer Vision
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=flat)
-![YOLOv11](https://img.shields.io/badge/YOLOv11-111111?style=flat)
 ![DeepSORT](https://img.shields.io/badge/DeepSORT-333333?style=flat)
 ![ArcFace](https://img.shields.io/badge/ArcFace-333333?style=flat)
 ![DeepFace](https://img.shields.io/badge/DeepFace-333333?style=flat)
@@ -85,7 +79,6 @@ I am especially interested in **efficient AI, multimodal/document intelligence, 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
 ### Databases / Platforms / Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -95,7 +88,6 @@ I am especially interested in **efficient AI, multimodal/document intelligence, 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Apache Pig](https://img.shields.io/badge/Apache%20Pig-FF6600?style=flat)
 
 ### Visualization
